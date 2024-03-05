@@ -1,0 +1,9 @@
+{
+    "positions_csv_path": "LINK-WETH_positions_04032024.csv",
+    "position_manager_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+    "pool_address": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+    "node_http_provider": "",
+    "final_block": 19358068,
+    "decimals_0": 18,
+    "decimals_1": 18
+}
